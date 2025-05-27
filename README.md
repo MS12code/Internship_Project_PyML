@@ -19,7 +19,7 @@ The goal of this project is to build a predictive model for diabetes using machi
 
 ## Dataset
 
-The dataset used is the Pima Indians Diabetes Dataset, which contains several medical predictor variables and one target variable, Outcome. The dataset is publicly available and can be found at [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes).
+The dataset used is the Pima Indians Diabetes Dataset, which contains several medical predictor variables and one target variable, Outcome. The dataset is publicly available and can be found at [UCI Machine Learning Repository]([https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes](https://archive.ics.uci.edu/)).
 
 ## Installation
 
